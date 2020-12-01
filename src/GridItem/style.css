@@ -1,0 +1,13 @@
+
+.grid-item {
+    border: 3px solid lightcoral;
+    height: 60px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    color: black;
+   
+ }
+ 
